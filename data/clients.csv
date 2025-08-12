@@ -1,0 +1,4 @@
+name,email,password,phone,address,genre
+Ana,ana@mail.com,123,555,Calle 1,Femenino
+Juan,juan@mail.com,456,777,Calle 2,Masculino
+Maria,maria@mail.com,abc,999,Calle 3,Femenino

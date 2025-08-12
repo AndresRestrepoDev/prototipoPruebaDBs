@@ -1,0 +1,21 @@
+name,email,password,phone,address,genre
+Ana,ana@mail.com,123,5551111,Calle 1,Femenino
+Juan,juan@mail.com,456,7772222,Calle 2,Masculino
+Maria,maria@mail.com,abc,9993333,Calle 3,Femenino
+Carlos,carlos@mail.com,def,8884444,Avenida 4,Masculino
+Sofia,sofia@mail.com,ghi,1115555,Carrera 5,Femenino
+Pedro,pedro@mail.com,jkl,2226666,Avenida 6,Masculino
+Laura,laura@mail.com,mno,3337777,Calle 7,Femenino
+Diego,diego@mail.com,pqr,4448888,Carrera 8,Masculino
+Valeria,valeria@mail.com,stu,5559999,Calle 9,Femenino
+Pablo,pablo@mail.com,vwx,6661010,Avenida 10,Masculino
+Gabriela,gabriela@mail.com,yza,7771122,Carrera 11,Femenino
+Jose,jose@mail.com,bcd,8881234,Calle 12,Masculino
+Camila,camila@mail.com,efg,9991345,Avenida 13,Femenino
+Luis,luis@mail.com,hij,1111456,Carrera 14,Masculino
+Fernanda,fernanda@mail.com,klm,2221567,Calle 15,Femenino
+Ricardo,ricardo@mail.com,nop,3331678,Avenida 16,Masculino
+Daniela,daniela@mail.com,qrs,4441789,Carrera 17,Femenino
+Andres,andres@mail.com,tuv,5551890,Calle 18,Masculino
+Isabella,isabella@mail.com,wxy,6661901,Avenida 19,Femenino
+Jorge,jorge@mail.com,zab,7772012,Carrera 20,Masculino
